@@ -10,7 +10,7 @@ make.bat and update.bat
 4. At any time can run update.bat for the latest version, if you change install
    location, you must run make.bat or update.bat
 
-package.bat
+setup.bat
 
 This is used for a fresh brand new install, delete the quicklisp directory and
 then run package.bat. If you stored any projects in the quicklisp local projects
