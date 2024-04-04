@@ -4,7 +4,7 @@ This version is based on sbcl 2.4.3
 
 *** setup.bat ***
 
-- Unzip where you would like your install to reside
+- Unzip where you would like your install to reside and run setup.bat
 
 This is used for a fresh brand new install. (To recreate a new install you can
 also delete the quicklisp directory and then run package.bat. If you stored
