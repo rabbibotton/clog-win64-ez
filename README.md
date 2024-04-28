@@ -24,3 +24,9 @@ or drag to your application bar.
   (Do frequently, as I add new features constantly)
 
 - If you change the director of this install run make.bat
+
+*** frame.bat ***
+
+- If you would like to run the CLOG Builder in a native window after setup.bat
+  or update.bat you can run frame.bat and the builder.exe will not use the
+  browser. However clogframe.exe must be in same directory.
