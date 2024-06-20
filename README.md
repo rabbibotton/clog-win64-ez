@@ -1,6 +1,6 @@
 *** Easy CLOG Builder Install for Windows 64 ***
 
-This version is based on sbcl 2.4.3
+This version is based on sbcl 2.4.5
 
 *** setup.bat ***
 
